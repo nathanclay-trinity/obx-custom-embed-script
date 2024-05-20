@@ -54,7 +54,7 @@ export const Badge = (props: Props) => {
         id="lite-badge"
         style={{ 'font-weight': 'bold', color: props.poweredByTextColor ?? defaultTextColor }}
       >
-        <span>OuterBox AI</span>
+        <span> OuterBox AI 🤖</span>
       </a>
     </span>
   );
